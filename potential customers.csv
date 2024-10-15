@@ -1,0 +1,6 @@
+cust_id,name,age,income,mobile_number,bank_balance,credit_score,previous_loan_taken
+2,Jane Smith,28,47000,987654321,18000,650,FALSE
+4,Emily Davis,38,52000,4445556666,27000,680,FALSE
+6,Mark Harris,32,50639.27,5809120963,32682.95,775,FALSE
+18,Susan Harris,30,40963.73,2272600151,19037.09,664,FALSE
+25,Rachel Smith,40,51352.59,673905956,43013.28,719,FALSE
